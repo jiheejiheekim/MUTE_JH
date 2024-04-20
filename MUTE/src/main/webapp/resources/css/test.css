@@ -1,0 +1,149 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'KOTRAHOPE';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2110@1.0/KOTRAHOPE.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+	font-family: 'KOTRAHOPE';
+	font-weight: 50;
+	text-align:center;
+	color:#002EA5;
+   
+}
+
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    
+}
+.logodiv{
+	width:80%;
+	/* border:1px solid red;*/
+ 	margin:auto;
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content:flex-end;/*주축 */
+	align-items:center;/*교차*/
+}
+
+.totaldiv{
+	width:100%;
+	display:flex;
+	flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+	
+	/* position: absolute;
+    top: 5px; 
+    right: 90px; */
+	width:160px;
+	height:160px;
+}
+
+
+.question{
+	/*position:absolute;
+	top:50%;
+	left:50%; */
+	transform:translate(0,-10%);
+	
+	max-width: 1024px;
+  	width: 90%;
+  	margin: 0 auto;
+}
+
+h1{
+	text-align:center;
+	margin-bottom:55px;
+	margin-top:0.5em;
+	font-size:3rem;
+}
+
+.btn{
+	width:80%;
+	font-size:2.2rem;
+    height:95px;
+    line-height: 50px;
+    text-align:center;
+    border-radius: 10px;
+    padding: auto;
+    margin-bottom: 30px;
+    border:none;
+}
+
+.btn:nth-child(4n-3) {
+    background-color: #FFE2F8;
+}
+
+.btn:nth-child(4n-2) {
+    background-color: #FFC6F2;
+}
+
+.btn:nth-child(4n-1) {
+    background-color: #FFE2F8;
+}
+
+.btn:nth-child(4n) {
+    background-color: #FFC6F2;
+}
+button.shadow {
+        box-shadow: 3px 3px 5px grey;
+    }
+
+@media (min-width: 300px){
+	.btn{
+	width:80%;
+	font-size:1.7rem;
+    height:95px;
+    line-height: 50px;
+    text-align:center;
+    border-radius: 10px;
+    padding: auto;
+    margin-bottom: 30px;
+    border:none;
+	}
+}
+@media (min-width: 800px){
+	.btn{
+	width:80%;
+	font-size:1.9rem;
+    height:95px;
+    line-height: 50px;
+    text-align:center;
+    border-radius: 10px;
+    padding: auto;
+    margin-bottom: 30px;
+    border:none;
+	}
+	
+}
+@media (min-width: 1200px){
+	.btn{
+	width:80%;
+	font-size:2.2rem;
+    height:95px;
+    line-height: 50px;
+    text-align:center;
+    border-radius: 10px;
+    padding: auto;
+    margin-bottom: 30px;
+    border:none;
+	}
+	
+}
+
+
