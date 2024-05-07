@@ -80,5 +80,5 @@
 
 
 ## 🎈 시연 영상
+<img src="https://github.com/jiheejiheekim/MUTEreadme/assets/142155462/4079f26b-d8ed-475d-9136-e0cc00b9012e">
 
-https://github.com/jiheejiheekim/MUTEreadme/assets/142155462/4079f26b-d8ed-475d-9136-e0cc00b9012e
