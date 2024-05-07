@@ -80,7 +80,8 @@
 
 
 ## 🎈 시연 영상
-https://github.com/jiheejiheekim/MUTE_JH/assets/142155462/426c9956-92c1-46b5-951a-c58c8d0c44f2
---------------------
-<img src="https://github.com/jiheejiheekim/MUTE_JH/assets/142155462/426c9956-92c1-46b5-951a-c58c8d0c44f2">
+
+https://github.com/jiheejiheekim/MUTE_JH/assets/142155462/583915dd-8a22-44ae-b169-6e59519aa8b6
+
+
 
